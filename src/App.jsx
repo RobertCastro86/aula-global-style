@@ -22,11 +22,11 @@ function App() {
           count is {count}
         </button>
         <p>
-          Olá eu sou Robert Castro e seja Bem vindo oo meu projeto React com Vite!<br />
+          Olá eu sou Robert Castro! Seja Bem vindo ao meu projeto React com Vite!<br />
         </p>
       </div>
       <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
+        Clique nos logos para saber mais sobre o Vite e o React!
       </p>
     </>
   )
