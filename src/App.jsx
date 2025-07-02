@@ -22,7 +22,7 @@ function App() {
           count is {count}
         </button>
         <p>
-          Edit <code>src/App.jsx</code> and save to test HMR
+          Olá eu sou Robert Castro e seja Bem vindo oo meu projeto React com Vite!<br />
         </p>
       </div>
       <p className="read-the-docs">
